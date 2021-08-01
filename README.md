@@ -63,7 +63,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <br/>
 <br/>
 
-<a href="https://github.com/nilpatil7744/github-readme-activity-graph"><img alt="Nilesh Kokate's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nilpatil7744&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://activity-graph.herokuapp.com/graph?username=nilpatil7744&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=trueh"><img alt="Nilesh Kokate's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nilpatil7744&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
