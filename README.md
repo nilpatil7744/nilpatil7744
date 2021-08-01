@@ -56,15 +56,16 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
   
  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargav1224&theme=react&hide_border=true&bg_color=0D1117" height="260px" width="33.25%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilpatil7744&theme=react&hide_border=true&bg_color=0D1117" height="260px" width="33.25%"/>
     </p>
   <br/>
 
 <br/>
 <br/>
 
-<a ><img alt="nil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nilpatil7744&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/nilpatil7744/github-readme-activity-graph"><img alt="Nilesh Kokate's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nilpatil7744&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
+<br/>
 <br/>
 
 ## Connect with me
