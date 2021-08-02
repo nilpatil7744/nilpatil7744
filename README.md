@@ -46,26 +46,19 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
     </a>
 </p>
 
-
-
-
   <p align="center">
     <a ><img alt="Nilesh Kokate's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nilpatil7744&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     </p>
 
-
-  
  <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilpatil7744&theme=react&hide_border=true&bg_color=0D1117" height="260px" width="33.25%"/>
     </p>
   <br/>
 
 <br/>
-<br/>
 
 <a href="https://activity-graph.herokuapp.com/graph?username=nilpatil7744&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=trueh"><img alt="Nilesh Kokate's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nilpatil7744&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<br/>
 <br/>
 
 ## Connect with me
