@@ -7,10 +7,11 @@
 
 ### About me:
 
-- 🔭 I’m currently persuing **full stack web developer course at Masai**.
-- 👯 I’m looking to collaborate on: **Developing new and intriguing open-source projects, with the community, for the community**
-- 🤔 I’m looking for **full stack web developer role**.
-- 😄 Pronouns: he/him
+- 🔭 I’m currently working as **Software developer at Zono App**.
+- 👯 I’m looking to collaborate on a few open source projects built primarily in React, and Typescript
+- 😄 Ask me about Javascript, React and React-native
+
+  📩 You can reach me at nilp7744@gmail.com
 
 # *I am willing to collaborate as a team player building better code.*
 
@@ -35,10 +36,6 @@
 </p>
 <br/>
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/nilpatil7744" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
 
 <p align="center">
     <a >
@@ -57,17 +54,13 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <br/>
 
-<a href="https://activity-graph.herokuapp.com/graph?username=nilpatil7744&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=trueh"><img alt="Nilesh Kokate's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nilpatil7744&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
 
 ## Connect with me
 
 <p align="left">
 <a href="https://linkedin.com/in/nilesh-kokate-566174207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nilesh-kokate-566174207" height="30" width="40" /></a>
 <a href="https://twitter.com/Nil_patil_" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="@nilp7744" height="30" width="30" /></a>
-<a href="https://medium.com/@nilp7744" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nilp7744" height="30" width="40" /></a>
-</p>
+
 
 
 ## ❤ Views and Followers
