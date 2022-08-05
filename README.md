@@ -58,7 +58,7 @@
 ## Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/nilesh-kokate-566174207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nilesh-kokate-566174207" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nilesh-kokate-patil-566174207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nilesh-kokate-566174207" height="30" width="40" /></a>
 <a href="https://twitter.com/Nil_patil_" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/twitter.png" alt="@nilp7744" height="30" width="30" /></a>
 
 
