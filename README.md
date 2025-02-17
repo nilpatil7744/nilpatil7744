@@ -7,7 +7,7 @@
 
 ### About me:
 
-- 🔭 I’m currently working as **Software engineer at Zono App**.
+- 🔭 I’m currently working as **Software engineer at Houstin Miffline Harcourt Teach India **.
 - 👯 I’m looking to collaborate on a few open source projects built primarily in React, and Typescript
 - 😄 Ask me about Javascript, React and React-native
 
